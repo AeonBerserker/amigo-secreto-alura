@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #fff;
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 500px;
+    width: 100%;
+}
+
+h1 {
+    color: #333;
+}
+
+.input-section {
+    margin: 1em 0;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#nombreAmigo {
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    flex-grow: 1;
+}
+
+button {
+    padding: 0.5em 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#adicionar {
+    background-color: #28a745;
+}
+
+#adicionar:hover {
+    background-color: #218838;
+}
+
+.lista-section, .resultado-section {
+    margin-top: 2em;
+}
+
+#listaAmigos {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #555;
+}
+
+#resultado {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #dc3545;
+}

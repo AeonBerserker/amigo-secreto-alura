@@ -1,1 +1,2 @@
 # amigo-secreto-alura
+Como parte de el continuo aprendizaje que ofrece Alura y Oracle en el programa , ONE se desarrolla este Challenge como parte de sus practicas dentro de sus cursos, de manera personal me ayuda a retomar y actualizar ciertas situaciones de mi carrera profesional
